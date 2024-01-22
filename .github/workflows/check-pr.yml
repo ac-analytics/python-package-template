@@ -1,5 +1,6 @@
 name: "Semantic PR Check"
 
+# Reference: https://www.conventionalcommits.org/en/v1.0.0/
 on:
   pull_request_target:
     types:
