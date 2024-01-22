@@ -1,0 +1,5 @@
+:!.github/workflows/sched-template-sync.yml
+:!.github/.templatesyncingnore
+:!src/python_project
+:!tests/test_methods.py
+*
