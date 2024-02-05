@@ -22,4 +22,4 @@ jobs:
         with:
           # [Required] Access token with `workflow` scope.
           token: ${{ secrets.WORKFLOW_SECRET }}
-          pull_request_title: "ci: Update GitHub Actions to latest version"
+          pull_request_title: "ci: update github actions to latest version"
