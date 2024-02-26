@@ -25,7 +25,7 @@ jobs:
         #   submodules: true
 
       - name: actions-template-sync
-        uses: AndreasAugustin/actions-template-sync@v1.5.0
+        uses: AndreasAugustin/actions-template-sync@v1.6.2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           source_repo_path: ac-analytics/python-package-template
