@@ -14,7 +14,7 @@ on:
 
 jobs:
   validation:
-    uses: ac-analytics/action-python/.github/workflows/validation.yml@v0.1.1
+    uses: altcoder/action-python/.github/workflows/validation.yml@v0.1
     with:
       workdir: '.'
       testdir: 'tests'
