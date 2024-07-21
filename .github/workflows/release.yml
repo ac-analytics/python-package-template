@@ -4,4 +4,4 @@ on:
 
 jobs:
   release:
-    uses: altcoder/action-python/.github/workflows/release.yml@v0.1
+    uses: altcoder/action-python/.github/workflows/release.yml@v0.1.3
